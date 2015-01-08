@@ -7,5 +7,5 @@ Gem::Specification.new do |s|
   s.author = ["Ryan Yang"]
   s.email = 'hiphubryan@gmail.com'
   s.files = ["lib/sluggable_ryan.rb"]
-  s.homepage = ""
+  s.homepage = "https://github.com/ryanyangtw/sluggable-gem"
 end
